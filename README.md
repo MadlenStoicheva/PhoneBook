@@ -17,6 +17,20 @@
 
 <img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/index_page.jpg">
 
-Добавяне на нов контакт.
+<p>Добавяне на нов контакт.</p>
+<br/>
 <img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/Add_screen.jpg">
+<br/>
+<p>Преглед на контакт</p>
+<br/>
+<img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/on_click.jpg">
+<br/>
+<p>Редактиране на контакт</p>
+<br/>
+<img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/Edit_contact.jpg">
+<br/>
+<p>Изтриване на контакт</p>
+<br/>
+<img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/delete_click.jpg">
+
 
