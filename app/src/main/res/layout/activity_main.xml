@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorMy"
+        android:layout_margin="15dp"
+        android:text="Add New Contact"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listViewContacts"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scrollbars="vertical"
+        android:textSize="5dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developer: Madlen Stoycheva, 1601681014"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
