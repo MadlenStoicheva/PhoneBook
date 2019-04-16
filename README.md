@@ -15,3 +15,8 @@
 категория потребител (познати, колеги, семейство, приятели). Приложението има следната фукнкционалност:
 създаване, преглед, редакция и изтриване на контакт.
 
+<img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/index_page.jpg">
+
+Добавяне на нов контакт.
+<img src="https://github.com/MadlenStoicheva/PhoneBook/blob/master/Screenshots/Add_screen.jpg">
+
